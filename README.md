@@ -1,2 +1,4 @@
-# genetic_trait_ratio
-I don't accept pull requests or issues.
+# genetic trait ratio simulator
+
+Code for simulating trait ratios
+
