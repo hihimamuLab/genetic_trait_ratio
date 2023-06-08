@@ -27,7 +27,7 @@ def genetic_trait_ratio(count = 100000):
 
     # result
     print("顕性の形質: A, 潜性の形質: a")
-    print(f"詳しい比率(["A", "A"] : ["A", "a"] | ["a", "A"] : ["a", "a"]): \n{dpl} : {crossbread} : {rpl}")
+    print(f"詳しい比率([\"A", "A"] : ["A", "a"] | ["a", "A"] : ["a", "a\"]): \n{dpl} : {crossbread} : {rpl}")
     print("簡易比率(基準は純系): \n1 : 2 : 1")
     print(f"形質比(同じような形質を表す物): \n詳しい比率: \n{dpl + crossbread} : {rpl}\n簡易比率: \n3 : 1")
 
